@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://luma.com/91ymi5dr",
+      "permanent": false
+    }
+  ]
+}
